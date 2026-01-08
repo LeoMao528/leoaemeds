@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p133573-e1860832.adobeaemcloud.com/bin/franklin.delivery/LeoMao528/leoaemeds/stage"
-    type: "markup"
-    suffix: ".html"
